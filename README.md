@@ -15,20 +15,17 @@
 - Lập trình C, C++ cơ bản
 - Lập trình Html, CSS, Javacript cơ bản
 - Photoshop cơ bản
-## Bạn là
+## Sinh viên 3
 - Ho ten: TRAN KIM HUI
 - Lop: CNTT K16
-## Ky nang bạn
-
-- Lap trinh C co ban
-- Git va GitHub
-##Học chung
-- Ho ten: Nguyen Minh Tân
-- Lop: CNTT K20
+## Ky nang bạn sv3
+## Sinh viên 4
+- Ho ten: Trần thái bảo
+- Lop: CNTT K16
 
 - Nganh hoc: Cong nghe thong tin
 
-## Ky nang của bạn
+## Ky nang của sv4
 
 - Lap trinh C co ban
 - Git va GitHub
